@@ -1,6 +1,7 @@
-baseURL: https://chapter-05-15.hugoinaction.com
+baseURL: https://chapter-07-18.hugoinaction.com
 languageCode: en-us
 title: Acme Corporation
-theme: Eclectic
+theme: AcmeTheme
 enableEmoji: true
 enableGitInfo: true
+Paginate: 3
